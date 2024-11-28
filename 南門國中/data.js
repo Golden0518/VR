@@ -169,7 +169,7 @@ var APP_DATA = {
           "yaw": -1.6191938684249898,
           "pitch": -0.0535648567917093,
           "title": "司令台",
-          "text": "Text"
+          "text": "升旗典禮舉行地點<div><br></div>"
         }
       ]
     },
@@ -377,7 +377,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "南門國中",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
